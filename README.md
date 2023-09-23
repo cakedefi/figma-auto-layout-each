@@ -9,4 +9,4 @@ You can't apply auto-layout on multiple selected frames at once, which will wrap
 ## Usage
 
 1. Select frame(s) you wish to apply auto-layout to
-2. Select **Plugins > Development > Auto-layout Each**
+2. Select **Plugins > Development > Figma Auto-layout Each**
