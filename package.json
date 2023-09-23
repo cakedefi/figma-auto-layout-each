@@ -1,7 +1,7 @@
 {
-  "name": "Auto-layout-Each",
+  "name": "figma-auto-layout-each",
   "version": "1.0.0",
-  "description": "Your Figma Plugin",
+  "description": "Apply auto layout to multiple frames without combining all of them into a single auto-layout.",
   "main": "code.js",
   "scripts": {
     "build": "tsc -p tsconfig.json",
